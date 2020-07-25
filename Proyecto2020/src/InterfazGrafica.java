@@ -45,7 +45,7 @@ public class InterfazGrafica {
 		JButton btnNewButton = new JButton("Mensaje");
 		btnNewButton.addActionListener(new ActionListener() {
 			public void actionPerformed(ActionEvent arg0) {
-				JOptionPane.showMessageDialog(null, "Este es un mensaje del Proyecto2020 antes de Git");
+				JOptionPane.showMessageDialog(null, "Este es un mensaje del Proyecto2020 despues de Git");
 			}
 		});
 		frame.getContentPane().add(btnNewButton, BorderLayout.SOUTH);
