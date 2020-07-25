@@ -1,5 +1,5 @@
 
 public class ejemplo {
-	//clase vacía
+	//clase vacía 2
 
 }
